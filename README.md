@@ -110,7 +110,7 @@ o	North America: 94,271
 
 
 
-## Analysis (Facts,Insights,Recommendations,Outcomes)
+## Analysis (Facts,Insights,Recommendations,Outcome)
 
 ### 1.	Financial Performance Analysis: Revenue Growth
 
